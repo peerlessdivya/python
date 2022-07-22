@@ -1,0 +1,11 @@
+print(100 > 50)
+print(100 < 50)
+x = 8956
+y = 8925
+print(x > y)
+print(x < y)
+print(x == y)
+print(y != 700)
+name = 'black'
+print(name == 'black')
+print(name == 'white')
